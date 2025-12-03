@@ -229,7 +229,6 @@ Este projeto está sob a licença ISC.
 ## 👨‍💻 Autor
 
 Desenvolvido com 💪 por Luiz Lima.
-Inspirado em Dieta.AI by Sujeito Programador
 
 ---
 
